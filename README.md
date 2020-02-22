@@ -4,7 +4,7 @@
 
 # Completion of Codepath Lab 2 Exercise 
 
-http://g.recordit.co/4rjVrBWWCG.gif
+<img src= "http://g.recordit.co/4rjVrBWWCG.gif" width=200><br>
 
 
 ## Required
