@@ -4,7 +4,7 @@
 
 # Completion of Codepath Lab 2 Exercise 
 
-<a href="https://imgflip.com/gif/3pybfg"><img src="https://i.imgflip.com/3pybfg.gif" title="made at imgflip.com"/></a>
+http://g.recordit.co/4rjVrBWWCG.gif
 
 
 ## Required
